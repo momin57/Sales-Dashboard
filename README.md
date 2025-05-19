@@ -18,8 +18,8 @@ This Excel dashboard analyzes sales data to provide insights on:
 - **Pivot Tables**: Used to summarize data
 - **Dashboard**: Interactive charts and summaries
 
-## 🖼️ Preview
-![Dashboard](Images/sales_dashboard_screenshot.png)
+## 🖼️Dashboard Preview
+![Dashboard](Images/dashboard.png)
 
 ## 📈 Key Insights
 - Most revenue came from the Clothing category
@@ -27,5 +27,5 @@ This Excel dashboard analyzes sales data to provide insights on:
 - Highest sales were in November 2023
 
 ## 📂 Files Included
-- `Sales_Dashboard_Excel.xlsx`: Full Excel workbook
-- `images/dashboard.png`: Screenshot of the dashboard
+- `Sales_Dashboard.xlsx`: Full Excel workbook
+- `Images/dashboard.png`: Screenshot of the dashboard
