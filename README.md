@@ -27,5 +27,5 @@ This Excel dashboard analyzes sales data to provide insights on:
 - Highest sales were in November 2023
 
 ## 📂 Files Included
-- `Sales_Dashboard.xlsx`: Full Excel workbook
+- `Sales_Dashboard.xlsx`: Full Excel workbook 
 - `Images/dashboard.png`: Screenshot of the dashboard
