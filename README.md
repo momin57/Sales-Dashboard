@@ -1,31 +1,69 @@
-# Excel Sales Dashboard
 
-## 📊 Project Overview
-This Excel dashboard analyzes sales data to provide insights on:
-- Revenue trends by month
-- Gender-based quantity and spending
-- Category performance
-- Age group purchasing behavior
+# 📊 Excel Sales Dashboard Project
 
-## 🛠️ Tools Used
-- Microsoft Excel
+This project presents an interactive sales dashboard built using Microsoft Excel. It visualizes sales data from **January 1, 2023 to January 1, 2024**, offering detailed insights into customer behavior, revenue trends, and product performance.
+
+---
+
+## 🔍 Project Highlights
+
+- Analyze **monthly sales revenue**
+- Compare **total amount and quantity sold by gender**
+- Track **sales performance by product category**
+- Understand **spending behavior by age group**
+- Visualize **demographics of customers**
+
+---
+
+## 🛠 Tools & Techniques Used
+
+- Microsoft Excel (Office 365)
 - Pivot Tables
-- Excel Formulas (IF, TEXT, MONTH, YEAR)
+- Excel Charts & Visualizations
+- Excel Functions:  
+  - `IF()`, `TEXT()`, `MONTH()`, `YEAR()`
 
-## 💾 What’s Inside the Excel File
-- **Raw Data**: The original transaction data
-- **Cleaned Data**: Added Age Group, Year, and Month columns
-- **Pivot Tables**: Used to summarize data
-- **Dashboard**: Interactive charts and summaries
+---
 
-## 🖼️Dashboard Preview
+## 📁 Project Contents
+
+| Sheet Name         | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| `Raw Data`         | Contains the original transaction records                                   |
+| `Cleaned Data`     | Includes derived columns such as Age Group, Year, and Month                 |
+| `Pivot Tables`     | Backend summaries feeding the dashboard visuals                             |
+| `Dashboard`        | Final interactive dashboard with filters and KPIs                           |
+
+---
+
+## 🖼️ Dashboard Preview
+
 ![Dashboard](Images/dashboard.png)
 
-## 📈 Key Insights
-- Most revenue came from the Clothing category
-- Middle-aged customers spent the most
-- Highest sales were in November 2023
+---
 
-## 📂 Files Included
-- `Sales_Dashboard.xlsx`: Full Excel workbook 
-- `Images/dashboard.png`: Screenshot of the dashboard
+## 📌 Key Insights
+
+- 🏆 **May 2023** recorded the **highest total sales** during the entire period.
+- 🧥 **Clothing** category contributed the **highest revenue** (~$155,580).
+- 👩‍🦱 **Female customers** generated more revenue ($232,840) than males.
+- 👥 **Middle-aged customers** were the highest spenders, followed by older adults.
+- 🎯 The **average amount spent** was highest in the **Young Adult** group.
+- 🗓️ Sales were consistent throughout the year with minor dips in March and October.
+
+---
+
+## 📦 Files Included
+
+- `Sales_Dashboard.xlsx` – Full Excel workbook including raw data, pivot tables, and dashboard
+- `Images/dashboard.png` – Screenshot of the final dashboard
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning & Transformation  
+- Creating calculated columns in Excel  
+- Designing visually appealing dashboards  
+- Extracting insights using pivot charts  
+- Using filters for interactivity (Year, Month, Product Category, Gender)
