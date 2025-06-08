@@ -49,7 +49,7 @@ This project presents an interactive sales dashboard built using Microsoft Excel
 - 👩‍🦱 **Female customers** generated more revenue ($232,840) than males.
 - 👥 **Middle-aged customers** were the highest spenders, followed by older adults.
 - 🎯 The **average amount spent** was highest in the **Young Adult** group.
-- 🗓️ Sales were consistent throughout the year with minor dips in March and October.
+- 🗓️ Sales were consistent throughout the year with minor dips in March and September.
 
 ---
 
